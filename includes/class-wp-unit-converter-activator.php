@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Fired during plugin deactivation
+ * Fired during plugin activation
  *
  * @link       centangle.com
  * @since      1.0.0
@@ -11,16 +11,16 @@
  */
 
 /**
- * Fired during plugin deactivation.
+ * Fired during plugin activation.
  *
- * This class defines all code necessary to run during the plugin's deactivation.
+ * This class defines all code necessary to run during the plugin's activation.
  *
  * @since      1.0.0
  * @package    Wp_Unit_Converter
  * @subpackage Wp_Unit_Converter/includes
- 
+ * @author     Centangle Interactive <hello@centangle.com>
  */
-class Wp_Unit_Converter_Deactivator {
+class Wp_Unit_Converter_Activator {
 
 	/**
 	 * Short Description. (use period)
@@ -29,7 +29,7 @@ class Wp_Unit_Converter_Deactivator {
 	 *
 	 * @since    1.0.0
 	 */
-	public static function deactivate() {
+	public static function activate() {
 
 	}
 
