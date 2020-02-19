@@ -22,7 +22,7 @@
  * @since      1.0.0
  * @package    Wp_Unit_Converter
  * @subpackage Wp_Unit_Converter/includes
- * @author     Centangle Interactive <hello@centangle.com>
+ 
  */
 class Wp_Unit_Converter_i18n {
 

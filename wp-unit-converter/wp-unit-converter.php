@@ -17,8 +17,8 @@
  * Plugin URI:        https://github.com/centangle/wp-unit-converter
  * Description:       WP Unit Converter let's you convert into different units of six different metrics.
  * Version:           1.0.1
- * Author:            Centangle Interactive
- * Author URI:        centangle.com
+ * Author:            rashmi
+ 
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       wpuc
